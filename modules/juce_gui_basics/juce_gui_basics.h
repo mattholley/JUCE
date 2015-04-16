@@ -220,6 +220,7 @@ class DrawableButton;
 #include "filebrowser/juce_DirectoryContentsList.h"
 #include "filebrowser/juce_DirectoryContentsDisplayComponent.h"
 #include "filebrowser/juce_FileBrowserComponent.h"
+#include "filebrowser/juce_FileChangeWatcher.h"
 #include "filebrowser/juce_FileChooser.h"
 #include "filebrowser/juce_FileChooserDialogBox.h"
 #include "filebrowser/juce_FileListComponent.h"

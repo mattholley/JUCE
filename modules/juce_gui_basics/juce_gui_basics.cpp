@@ -179,6 +179,7 @@ extern bool juce_areThereAnyAlwaysOnTopWindows();
 #include "filebrowser/juce_DirectoryContentsDisplayComponent.cpp"
 #include "filebrowser/juce_DirectoryContentsList.cpp"
 #include "filebrowser/juce_FileBrowserComponent.cpp"
+#include "filebrowser/juce_FileChangeWatcher.cpp"
 #include "filebrowser/juce_FileChooser.cpp"
 #include "filebrowser/juce_FileChooserDialogBox.cpp"
 #include "filebrowser/juce_FileListComponent.cpp"
